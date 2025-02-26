@@ -1,5 +1,38 @@
-IJOC.2023.0367
-This github contains three main folders for Data, Code, and Results associated with the paper titled "Machine Learning-empowered Benders Decomposition for Flow Hub Location in E-Commerce". The detailed explanation on them is given in the corresponding folders. Specifically,
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+# Machine Learning-empowered Benders Decomposition for Flow Hub Location in E-Commerce
+
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+The codes, results, and data in this repository are for the research reported on in the paper 
+[Machine Learning-empowered Benders Decomposition for Flow Hub Location in E-Commerce](https://doi.org/10.1287/ijoc.2023.0367) by T. Wu, W. Chen, J. F. Cordeau, and R. Jans. 
+
+## Cite
+
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2023.0367
+
+https://doi.org/10.1287/ijoc.2023.0367.cd
+
+Below is the BibTex for citing this snapshot of the repository.
+
+```
+@misc{LEBDIJOC,
+  author =        {T. Wu and W. Chen and J. F. Cordeau and R. Jans},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Machine Learning-empowered \textsc{B}enders Decomposition for Flow Hub Location in E-Commerce},
+  year =          {2025},
+  doi =           {https://doi.org/10.1287/ijoc.2023.0367.cd},
+  url =           {https://github.com/INFORMSJoC/2023.0367},
+  note =          {Available for download at https://doi.org/10.1287/ijoc.2023.0367},
+}  
+```
+
+## Description
+
+This github contains three main folders for Data, Code, and Results. The detailed explanation on them is given in the corresponding folders. Specifically,
 
 The "src" folder contains the codes for the six compared methods for Benchmark Testing, including
 
